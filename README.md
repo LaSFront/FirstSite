@@ -12,14 +12,6 @@
 
 ## <span style="color: red">Мои увлечения:</span>
 
-1. горнолыжный спорт;
-   
-![сноуборд](Snowbord.jpg)
-
-2. айкидо;
-   
-![айкидо](Aikido.jpg)
-
-3. путешествия.
-   
-![Italy](Italy.jpg)
+1. горнолыжный спорт;![сноуборд](Snowbord.jpg)
+2. айкидо;![айкидо](Aikido.jpg)
+3. путешествия.![Italy](Italy.jpg)

@@ -1,4 +1,4 @@
-# <span style="color: wite">***Немного обо мне***</span>
+# <span style="color: yellow">***Немного обо мне***</span>
 
 ## <span style="color: blue">**ИМЯ**: БОБРИНСКАЯ ЛАРИСА</span>
 
@@ -6,7 +6,7 @@
 
 Готова к кардинальным изменениям в своей жизни.
 
-Обучаюсь на двух платформах, одна из которых - [<span style="color: green"> **ОБРАЗОВА</span><span style="color: blue">ТЕЛЬНАЯ</span><span style="color: purple"> ПЛАТФОРМА</span><span style="color: red"> НЕТОЛОГИЯ**</span>](https://netology.ru/).
+Обучаюсь на двух платформах, одна из которых - [<span style="color: green"> **ОБРАЗОВА**</span><span style="color: blue">**ТЕЛЬНАЯ**</span><span style="color: purple"> **ПЛАТФОРМА**</span><span style="color: red"> **НЕТОЛОГИЯ**</span>](https://netology.ru/).
 
 Рекомендую каждому, кто хочет себя найти!
 

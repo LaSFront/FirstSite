@@ -1,4 +1,4 @@
-# <span style="color: yellow">***Немного обо мне***</span>
+# <span style="color: gray">***Немного обо мне***</span>
 
 ## <span style="color: blue">**ИМЯ**: БОБРИНСКАЯ ЛАРИСА</span>
 
